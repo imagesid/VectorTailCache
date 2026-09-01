@@ -1,0 +1,45 @@
+results/
+scriptsx/
+# build files
+build/
+cmake-build-*/
+*.o
+*.so
+*.a
+*.out
+
+# experiment outputs
+results/
+logs/
+*.log
+
+# datasets / indexes
+data/
+datasets/
+index/
+indices/
+*.bin
+*.fbin
+*.ibin
+*.u8bin
+*.npy
+*.npz
+
+# python/cache
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS/editor
+.DS_Store
+.vscode/
+.idea/
+docker/
+# Removed local/root files
+/docker-compose.yml
+/install_baremetal.sh
+/read_retry_steps.pdf
+/read_retry_steps.png
+/readme.txt
+/docker/

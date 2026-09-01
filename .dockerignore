@@ -1,0 +1,8 @@
+
+# Ignore local/root files in Docker build context
+/docker-compose.yml
+/install_baremetal.sh
+/read_retry_steps.pdf
+/read_retry_steps.png
+/readme.txt
+/docker/
