@@ -18,7 +18,6 @@ Built on the [DiskANN `cpp_main` branch](https://github.com/microsoft/DiskANN/tr
 - [Dataset Download](#dataset-download)
 - [Index Building](#index-building)
 - [Reproducing the Paper's Results](#reproducing-the-papers-results)
-  - [Measurement Study (Section 2, optional)](#measurement-study-section-2-optional)
   - [Main Evaluation (Section 4)](#main-evaluation-section-4)
 - [Citation](#citation)
 - [License](#license)
